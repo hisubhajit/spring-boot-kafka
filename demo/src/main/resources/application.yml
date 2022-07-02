@@ -1,0 +1,4 @@
+logging:
+  pattern:
+    console: { "date": "%d{yyyy-MM-dd HH:mm:ss}","thread": "%thread","level": "%-5level","message": "%msg" }%n
+
